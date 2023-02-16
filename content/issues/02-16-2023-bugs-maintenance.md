@@ -1,8 +1,8 @@
 ---
 title: Migrating MantisBT (bugs.almalinux.org)
-date: 2023-02-16 7:50:00
-resolved: false
-#resolvedWhen: 2020-01-11 00:03:05
+date: 2023-02-16 7:30:00
+resolved: true
+resolvedWhen: 2023-02-16 7:50:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
