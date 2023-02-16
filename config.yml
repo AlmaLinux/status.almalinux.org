@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://almalinux-status-test.pages.dev/
+baseURL: https://status.almalinux.org
 
 # For features like Last modified, you
 # need to use a Git repository. If you
