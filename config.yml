@@ -154,17 +154,24 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: AlmaLinux Build System
+    - name: AlmaLinux Build System (build.almalinux.org)
       category: AlmaLinux Services
-    - name: Gitea
+    - name: Bugs (bugs.almalinux.org)
       category: AlmaLinux Services
-    - name: Mattermost
+    - name: Mailing Lists (lists.almalinux.org)
       category: AlmaLinux Services
-    - name: Mirror Service
+     - name: Public Repositories (repo.almalinux.org)
+    - name: Gitea (git.almalinux.org)
       category: AlmaLinux Services
-    - name: Website
+    - name: Forums (forums.almalinux.org)
       category: AlmaLinux Services
-    - name: Wiki
+    - name: Mattermost (chat.almalinux.org)
+      category: AlmaLinux Services
+    - name: Mirror Service 
+      category: AlmaLinux Services
+    - name: Website (www.almalinux.org)
+      category: AlmaLinux Services
+    - name: Wiki (wiki.almalinux.org)
       category: AlmaLinux Services
 
 
