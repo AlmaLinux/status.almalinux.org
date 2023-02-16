@@ -160,7 +160,8 @@ params:
       category: AlmaLinux Services
     - name: Mailing Lists (lists.almalinux.org)
       category: AlmaLinux Services
-     - name: Public Repositories (repo.almalinux.org)
+    - name: Repositories (repo.almalinux.org)
+      category: AlmaLinux Services
     - name: Gitea (git.almalinux.org)
       category: AlmaLinux Services
     - name: Forums (forums.almalinux.org)
