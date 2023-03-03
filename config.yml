@@ -168,7 +168,7 @@ params:
       category: AlmaLinux Services
     - name: Mattermost (chat.almalinux.org)
       category: AlmaLinux Services
-    - name: Mirror Service 
+    - name: Mirror Service
       category: AlmaLinux Services
     - name: Website (www.almalinux.org)
       category: AlmaLinux Services
