@@ -154,6 +154,8 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
+    - name: Accounts (accounts.almalinux.org)
+      category: AlmaLinux Services
     - name: AlmaLinux Build System (build.almalinux.org)
       category: AlmaLinux Services
     - name: Bugs (bugs.almalinux.org)
