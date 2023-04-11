@@ -1,8 +1,8 @@
 ---
 title: Mailing List Web Frontend Maintenance
 date: 2023-04-11 14:15:00
-resolved: false
-resolvedWhen: 
+resolved: true
+resolvedWhen: 2023-04-11 22:05:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
