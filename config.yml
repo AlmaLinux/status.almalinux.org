@@ -176,6 +176,12 @@ params:
       category: AlmaLinux Services
     - name: Wiki (wiki.almalinux.org)
       category: AlmaLinux Services
+    - name: Paste (paste.almalinux.org)
+      category: AlmaLinux Services
+    - name: Shop (shop.almalinux.org)
+      category: AlmaLinux Services
+    - name: OpenProject
+      category: AlmaLinux Services
 
 
   # What date format to use?
