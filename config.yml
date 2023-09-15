@@ -180,7 +180,7 @@ params:
       category: AlmaLinux Services
     - name: Shop (shop.almalinux.org)
       category: AlmaLinux Services
-    - name: OpenProject
+    - name: OpenProject (openproject.almalinux.org)
       category: AlmaLinux Services
 
 
