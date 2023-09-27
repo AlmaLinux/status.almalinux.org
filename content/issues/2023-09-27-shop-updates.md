@@ -1,8 +1,8 @@
 ---
 title: Shop updates
 date: 2023-09-27 21:00:00
-resolved: false
-resolvedWhen: 2023-04-11 22:05:00
+resolved: true
+resolvedWhen: 2023-09-27 21:30:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
