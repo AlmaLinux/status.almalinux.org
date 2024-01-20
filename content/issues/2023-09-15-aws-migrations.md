@@ -1,8 +1,8 @@
 ---
 title: Migrating Multiple Instances
 date: 2023-09-15 22:45:00
-resolved: false
-resolvedWhen: 
+resolved: true
+resolvedWhen: 2023-10-01 00:00:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
