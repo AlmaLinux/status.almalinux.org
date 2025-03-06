@@ -255,6 +255,8 @@ params:
   # STRING; `monthly`, `yearly`, `none`
   incidentHistoryFormat: "yearly"
 
+  enableCustomHTML: true
+
   # Should incident history be hidden?
   #
   # By disabling the incident history, you also disable
@@ -345,7 +347,7 @@ params:
   # down: "#e60000"
   # notice: "#24478f"
   brand: "#0a0c0f"
-  ok: "#008000"
+  ok: "#44790c"
   disrupted: "#cc4400"
   down: "#e60000"
   notice: "#24478f"
@@ -423,3 +425,5 @@ outputFormats:
   svg:
     isPlainText: true
     mediaType: image/svg+xml
+
+
