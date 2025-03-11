@@ -263,6 +263,12 @@
       .tooltip:active .tooltip__text {
         width: 50vw;
       }
+
+      /* Move service status to next line */
+      .component {
+      display: flex;
+      flex-direction: column;
+      }
     }
 
     /**
@@ -353,6 +359,7 @@
         float: right;
         display: inline;
       }
+
     }
 
     {{ if not .Site.Params.disableDarkMode }}
