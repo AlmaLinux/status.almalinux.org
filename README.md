@@ -1,3 +1,7 @@
+# Archive notice
+
+This respository has been archived as our cstate-powered status page has since been replaced by a Cachet-powered page.  Please see the [infrastructure ansible playbooks](https://github.com/almalinux/infra-ansible) for more info.
+
 # cState Site v5.5
 
 This is the default cState status page website directory/folder.
